@@ -1,5 +1,5 @@
 ```sh
 $ git add .
-$ git commit
+$ git commit -m "Message"
 $ git push
 ```
