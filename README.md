@@ -13,3 +13,9 @@ Front End Engineering Notes, January 2015
 - [Install Homebrew](004-install-homebrew.md)
 - [Install Node](005-install-node.md)
 - [Divshot](006-divshot.md)
+
+# 1.3 (2015-01-07)
+- [Install git](007-git-installation.md)
+- [Git 101](008-git-101.md)
+- [GitHub 101](009-github-101.md)
+- [git workflow](010-git-workflow.md)
