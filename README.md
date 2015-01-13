@@ -19,3 +19,6 @@ Front End Engineering Notes, January 2015
 - [Git 101](008-git-101.md)
 - [GitHub 101](009-github-101.md)
 - [git workflow](010-git-workflow.md)
+
+# 2.2 (2015-01-13)
+- [Install and Configure scss-lint](999-scss-lint.md)

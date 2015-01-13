@@ -1,4 +1,6 @@
 ```sh
+$ git init .
+$ hub create <project-name>
 # add some files
 $ git add .
 $ git commit -m "Message"
