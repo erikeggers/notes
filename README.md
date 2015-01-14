@@ -20,6 +20,12 @@ Front End Engineering Notes, January 2015
 - [GitHub 101](009-github-101.md)
 - [git workflow](010-git-workflow.md)
 
+# 2.1
+- [Sass
+  terminology](http://skillcrush.com/2014/07/29/jargon-begone-common-sass-terminology-beginners/)
+- [Sass concepts](https://scotch.io/tutorials/getting-started-with-sass)
+- [Sass CLI tool](997-sass-cli.md)
+
 # 2.2 (2015-01-13)
 - [Install and Configure scss-lint](999-scss-lint.md)
 - [Bourbon and Neat](998-bourbon-neat.md)
