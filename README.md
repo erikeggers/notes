@@ -29,3 +29,7 @@ Front End Engineering Notes, January 2015
 # 2.2 (2015-01-13)
 - [Install and Configure scss-lint](999-scss-lint.md)
 - [Bourbon and Neat](998-bourbon-neat.md)
+
+# 2.4 (2015-01-15)
+- [Including JavaScript in your page](including-js.md)
+- [JavaScript 101](js-101.md)
