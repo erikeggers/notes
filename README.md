@@ -33,3 +33,12 @@ Front End Engineering Notes, January 2015
 # 2.4 (2015-01-15)
 - [Including JavaScript in your page](including-js.md)
 - [JavaScript 101](js-101.md)
+
+# 3.2 (2015-01-20)
+- [Arrays](arrays.md)
+- [Functions](functions.md)
+- [if...else](if-else.md)
+- [Iteration Functions](iteration-functions.md)
+- [JavaScript Operators](js-operators.md)
+- [JavaScript loops](loops.md)
+- [Truthiness](truthiness.md)
