@@ -42,3 +42,7 @@ Front End Engineering Notes, January 2015
 - [JavaScript Operators](js-operators.md)
 - [JavaScript loops](loops.md)
 - [Truthiness](truthiness.md)
+
+# 3.3 (2015-01-21)
+- [Iteration Functions](iteration-functions.md)
+- [Objects](objects.md)
