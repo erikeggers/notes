@@ -1,5 +1,6 @@
 # Iteration Functions
 ## [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
 The reason to use forEach is have side effects for each item in an array.
 
 ### Examples
@@ -34,6 +35,14 @@ enforced in any way.
 
 ## filter
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
+The reason to use filter is to get a new array that only contains items that
+match the criteria you're looking for.
+
+The internal function must return `true` or `false`.
+
+Etiquette says that filter should never have side effect, though this isn't
+enforced in any way.
 
 ```js
 [1, 2, 3].filter(function(num) {

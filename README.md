@@ -46,3 +46,12 @@ Front End Engineering Notes, January 2015
 # 3.3 (2015-01-21)
 - [Iteration Functions](iteration-functions.md)
 - [Objects](objects.md)
+
+# 3.4 (2015-01-22)
+- [jQuery](jquery-101.md)
+- [reduce](iteration-functions.md)
+
+# 4.1 (2015-01-26)
+- [ajax](ajax.md)
+- [async](async.md)
+- [How to ask a question](how-to-ask-a-question.md)

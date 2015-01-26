@@ -1,0 +1,54 @@
+# How to ask a question
+- It is often helpful to create a [gist](https://gist.github.com) of your problem.
+- “Not working” is not a helpful description. You should try to describe the
+  problem, and post enough code, that the other person can try to reproduce the
+  problem.
+- Try using `console.log` and `debugger` to figure out what's happening before
+  you post a question.
+
+> Write a title that summarizes the specific problem
+
+> Pretend you're talking to a busy colleague and have to sum up your entire
+> question in one sentence: what details can you include that will help someone
+> identify and solve your problem? Include any error messages, key APIs, or
+> unusual circumstances that make your question different from similar questions
+> already on the site.
+
+> If you're having trouble summarizing the problem, write the title last -
+> sometimes writing the rest of the question first can make it easier to describe
+> the problem.
+
+> Examples:
+
+> Bad: C# Math Confusion
+> Good: Why does using float instead of int give me different results when all of
+> my inputs are integers?
+> Bad: [php] session doubt
+> Good: How can I redirect users to different pages based on session data in PHP?
+> Bad: android if else problems
+> Good: Why does str == "value" evaluate to false when str is set to "value"?
+> Introduce the problem before you post any code
+
+> In the body of your question, start by expanding on the summary you put in the
+> title. Explain how you encountered the problem you're trying to solve, and any
+> difficulties that have prevented you from solving it yourself. The first
+> paragraph in your question is the second thing most readers will see, so make it
+> as engaging and informative as possible.
+
+> Help others reproduce the problem
+
+> Not all questions benefit from including code. But if your problem is with code
+> you've written, you should include some. But don't just copy in your entire
+> program! Not only is this likely to get you in trouble if you're posting your
+> employer's code, it likely includes a lot of irrelevant details that readers
+> will need to ignore when trying to reproduce the problem. Here are some
+> guidelines:
+
+> Include just enough code to allow others to reproduce the problem. For help with
+> this, read How to create a Minimal, Complete, and Verifiable example.
+> If it is possible to create a live example of the problem that you can link to
+> (for example, on http://sqlfiddle.com/ or http://jsbin.com/) then do so - but
+> also include the code in your question itself. Not everyone can access external
+> sites, and the links may break over time.
+
+Source: http://stackoverflow.com/help/how-to-ask
