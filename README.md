@@ -56,3 +56,11 @@ Front End Engineering Notes, January 2015
 - [async](async.md)
 - [How to ask a question](how-to-ask-a-question.md)
 - [How to break down a problem](how-to-break-down-a-problem.md)
+
+# 4.4 (2015-01-29)
+[setTimeout-setInterval.md](setTimeout-setInterval.md)
+[git.md](git.md)
+[github-collaboration.md](github-collaboration.md)
+[gitignore.md](gitignore.md)
+[project-management.md](project-management.md)
+[git-hooks.md](git-hooks.md)
