@@ -55,3 +55,4 @@ Front End Engineering Notes, January 2015
 - [ajax](ajax.md)
 - [async](async.md)
 - [How to ask a question](how-to-ask-a-question.md)
+- [How to break down a problem](how-to-break-down-a-problem.md)
