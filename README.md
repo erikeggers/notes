@@ -65,5 +65,8 @@ Front End Engineering Notes, January 2015
 - [project-management.md](project-management.md)
 - [git-hooks.md](git-hooks.md)
 
+# 5.1 (2015-02-02)
+- [Prototypes and Constructors](prototypes-and-constructors.md)
+
 # 5.2 (2015-02-03)
 - [JS Review](js-review.md)
