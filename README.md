@@ -64,3 +64,6 @@ Front End Engineering Notes, January 2015
 - [gitignore.md](gitignore.md)
 - [project-management.md](project-management.md)
 - [git-hooks.md](git-hooks.md)
+
+# 5.2 (2015-02-03)
+- [JS Review](js-review.md)
