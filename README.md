@@ -62,7 +62,6 @@ Front End Engineering Notes, January 2015
 - [git.md](git.md)
 - [git branching workflow](git-branching-workflow.md)
 - [gitignore.md](gitignore.md)
-- [project-management.md](project-management.md)
 - [git-hooks.md](git-hooks.md)
 
 # 5.1 (2015-02-02)
@@ -70,3 +69,9 @@ Front End Engineering Notes, January 2015
 
 # 5.2 (2015-02-03)
 - [JS Review](js-review.md)
+
+# 5.4 (2015-02-05)
+- [Equality](equality.md)
+- [Inheritance]()
+- [Project Management](project-management.md)
+- [CRC Cards]()
