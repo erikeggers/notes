@@ -71,7 +71,7 @@ Front End Engineering Notes, January 2015
 - [JS Review](js-review.md)
 
 # 5.4 (2015-02-05)
-- [Equality](equality.md)
+- [Equality](equality-and-coersion.md)
 - [Inheritance]()
 - [Project Management](project-management.md)
 - [CRC Cards]()
