@@ -75,3 +75,9 @@ Front End Engineering Notes, January 2015
 - [Inheritance]()
 - [Project Management](project-management.md)
 - [CRC Cards]()
+
+# 6.1 (2015-02-09)
+- [Application Architecture](application-architecture.md)
+
+# 9.1 (2015-03-02)
+- [Project playbook](playbook.md)

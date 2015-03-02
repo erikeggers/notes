@@ -1,4 +1,4 @@
-## Equality
+## Equality (`==`)
 - If two values have the same type, just compare them
 - If two values have different types, try to coerce them into the same type and
   then compare them.
@@ -7,6 +7,7 @@
 - When comparing a Number and String, coerce the String to a Number
 - When comparing a Boolean and Anything, coerce the Boolean to a Number
 - `null == undefined // => true`
+- `NaN == NaN // => false`
 - There can be multiple steps
   ```js
   /* 1 */ 1 == "" // coerce String -> Number
@@ -16,9 +17,6 @@
   /* 2 */ "1" == 1 // coerce String -> Number
   /* 3 */ 1 == 1 // => true
   ```
-
-- object equality (also arrays and functions)
-- falsy values
 
 ## Strict equality
 
