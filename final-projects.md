@@ -139,8 +139,8 @@ Peer code reviews are also extremely helpful.
     - During final projects, do only two 1-hr job searches each week. That
       means, pick two evenings (Tues, Thurs), schedule them on your calendar
       (to get alerts so you don't forget), and don't do anything more.
-    - After final projects, you will want to apply to 3 jobs each day
-      (average: 15 a week).
+    - During final projects, spend a little time every day (25 minutes?) working
+      on your portfolio. Schedule this on your calendar.
 
 - What happens if I don't finish my project?
 
