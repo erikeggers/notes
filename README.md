@@ -81,3 +81,6 @@ Front End Engineering Notes, January 2015
 
 # 9.1 (2015-03-02)
 - [Project playbook](playbook.md)
+
+# 9.4 (2015-03-05)
+- [Final Projects and Demo Day](final-projects.md)
